@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ramu148/Shoppingcart-using-Reactjs/settings/pages/static/css/main.e543ade8.css",
+    "main.js": "/Ramu148/Shoppingcart-using-Reactjs/settings/pages/static/js/main.978f62ae.js",
+    "index.html": "/Ramu148/Shoppingcart-using-Reactjs/settings/pages/index.html",
+    "main.e543ade8.css.map": "/Ramu148/Shoppingcart-using-Reactjs/settings/pages/static/css/main.e543ade8.css.map",
+    "main.978f62ae.js.map": "/Ramu148/Shoppingcart-using-Reactjs/settings/pages/static/js/main.978f62ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e543ade8.css",
+    "static/js/main.978f62ae.js"
+  ]
+}
